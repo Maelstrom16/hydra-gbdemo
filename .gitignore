@@ -1,0 +1,30 @@
+# Compiled Object Files
+*.o
+*.obj
+
+# Compiled ROM Files
+*.gb
+*.gbc
+*.dmg
+
+# Map & Symbol Files
+*.map
+*.sym
+
+# Compiled Tile Data / Graphics
+*.2bpp
+*.1bpp
+*.pal
+*.tilemap
+*.attrmap
+
+# Generated dependency files
+*.d
+
+# Editor and IDE Files
+.vscode/
+.idea/
+*.swp
+*.swo
+*.DS_Store
+Thumbs.db
